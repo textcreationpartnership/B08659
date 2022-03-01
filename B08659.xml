@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the right honourable the Lord Leigh in answer to a printed paper entitled, The case of Dame Elizabeth, the vvife of said Thomas Lord Leigh of Stoneleigh, &amp;c</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08659</idno>
+            <idno type="STC">Wing C1157C</idno>
+            <idno type="STC">ESTC R175680</idno>
+            <idno type="EEBO-CITATION">61296905</idno>
+            <idno type="OCLC">ocm 61296905</idno>
+            <idno type="VID">180488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180488)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the right honourable the Lord Leigh in answer to a printed paper entitled, The case of Dame Elizabeth, the vvife of said Thomas Lord Leigh of Stoneleigh, &amp;c</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: page creased with some loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bromley, William, 1663?-1732 --  Trials, litigation, etc.</term>
+               <term>Leigh of Stoneleigh, Elizabeth Leigh, --  Lady, d. 1678 --  Trials, litigation, etc.</term>
+               <term>Leigh of Stoneleigh, Thomas Leigh, --  Baron, 1652-1710 --  Trials, litigation, etc.</term>
+               <term>Decedents' family maintenance --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180488:1" rendition="simple:additions"/>
+            <head>THE CASE Of the Right Honourable the Lord <hi>Leigh,</hi> in Anſwer to a printed Paper entituled the CASE of Dame <hi>Elizabeth,</hi> the VVife of the ſaid <hi>Thomas</hi> Lord <hi>Leigh</hi> of <hi>Stoneleigh,</hi> &amp;c.</head>
+            <p>THAT the now Lady <hi>Leigh</hi> being propoſed to the late Lord <hi>Leigh,</hi> as a conſiderable fortune for his Grandſon, the now Lord <hi>Leigh,</hi> he by his Agents entred into a treaty with her Mother (then in truth the Wife of one Mr. <hi>Temple,</hi> her concealed Husband; but going by the name of Mrs. <hi>Brown</hi>) about it: But finding, on information, that her Eſtate conſiſted in Land, and that incumbred, and his occaſions requiring mo<g ref="char:EOLhyphen"/>nies to pay the debts of his deceaſed Son Sir <hi>Thomas Leigh</hi> (for moſt part contracted in his late Majeſties ſervice) and raiſing portions for his Daughters, the now Lords Siſters, being three, he declined further treaty. Wherewith the Mother being acquainted, ſhe, to draw on the match, declared that her Daughters Lands were 900 <hi>l. per Annum</hi> (though in truth they never yet exceed 740 <hi>l.</hi> or thereabouts, and for the moſt part not worth fourteen years purchaſe) charged with 200 <hi>l. per Ann.</hi> for her Joynture, and tho incumbred with 3000 <hi>l.</hi> debt (for no more was ſpoken of, tho others afterwards appeared): yet that there was 3000 <hi>l.</hi> raiſed by ſale of Woods, which would clear the incumbrances; that her Daughters Lands might be ſold to ſerve all occaſions; and that if (being under age) her Daughter ſhould die before ſale, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et the Mortgages ſhould be aſſigned for the Grandſons benefit, ſo as the 3000 <hi>l.</hi> would come clear to him: And in ſum, ſhe would lay her Daughter and ſet Fortune at his Lordſhips feet, to be diſpoſed of at pleaſure: And with theſe, and the like inſinuations, the late Lord was drawn to conſent to the Match, without any poſitive Agreement made about the Eſtate; and ſhe well knowing that his Quality and Eſtate might juſtly expect a better Fortune, leaſt ſecond thoughts might prevent it, got them forthwith married privately in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> before almoſt any of his Friends knew of it.</p>
+            <p>That the Debts and Portions (which for the moſt part were not (as ſuggeſted) charged on the Eſtate, but yet in Honor and Conſcience to be taken care of,) being on all treaties declared and intended to be provided for; (and therefore not concealed as is pretended) the Mother and Daughter, preſently after the marriage were ſent to veiw <hi>Ridware</hi> (part of the Eſtate the Grandſon had in poſſeſſion) and then to conſider which was fitteſt for ſale, that, or the Daughters, his Lordſhip declaring and intending to endeavour to get an Act of Parliament to that purpoſe, and for ſettlement of the whole, in regard both were under Age.</p>
+            <p>The Mother, after view, declares the Daughters eſtate fitteſt for ſale; and the Daughter in no ſort gainſaid it. But the Mother it ſeems intended nothing leſs: for having got her own ends in the marriage, ſhe preſently leaves <hi>Stoneleigh</hi> (his Lordſhip Houſe) where they then lived, pretending to go into <hi>Kent</hi> to mannage the Eſtate till diſpoſed of, and prevailed with the Son in Law and Daughter to go with her. But being come thither, ſhe takes another method, uſing all Ar<g ref="char:EOLhyphen"/>tifices firſt to alienate his affections from his Grandfather and Relations, and (that not taking) then to raiſe jealouſies and diſſentions betwixt him and his Wife.</p>
+            <p>That the Grandfather, having diſcovered (which till after the marriage was concealed) tha her Mother and her Unkle Mr. <hi>William Andrews</hi> had procured the Lady at thirteen to levy a Fine of a great part of her Eſtate, and to declare the uſe to the Mother, and her Heirs, in default of Iſſue of her own, but with power of Revocation; and the Parliament near approaching, ſent Propoſals, that 300 <hi>l. per Ann.</hi> of the Ladies Land might be ſold for the ends <hi>ſupra,</hi> which produced ſe<g ref="char:EOLhyphen"/>veral Treaties. But Mr. <hi>Andrewes,</hi> who was employed on the Ladies part (having laid a deſign by that Fine to get the Eſtate to his Siſter, and by conſequence to himſelf) came fraught with ſuch extravagant demands and cavils as 'twas evident no compliance was intended. And the Mother at length declared, that the Debts or Portions were only Proviſions of Honor, and her Daughters Eſtate ſhould not be applyed to pay them, ſo as all Treaties that way proved ineffectual.</p>
+            <p>That as to the Incumbrances upon her own eſtate, 'tis true the Wood had been ſold by Indenture under Hand and Seal, wherein Mr. <hi>Andrewes,</hi> as the Ladies Guardian, and the Mother (by her Widdows name <hi>Brown</hi>) ſold the Wood for 3000 l. to herthen Husband <hi>Temple</hi> and two others. But all that the Lord could re<g ref="char:EOLhyphen"/>ceive of it (and that not without ſuit neither) was but 1400 <hi>l.</hi> for part was loſt in <hi>Temple</hi>'s hands, and 1000 <hi>l.</hi> Mr. <hi>Andrewes</hi> received, which was ſo far from being applied to diſcharge the Incumbrances, that 'twas rather to make Incumbrances: For whereas part of the Eſtate was mortgaged to Mr. <hi>Farewell</hi> for 2000 <hi>l.</hi> that 1000 <hi>l.</hi> ('tis true) was paid to Mr. <hi>Farwell,</hi> but Mr. <hi>Andrewes</hi> took Bonds for it from Mr. <hi>Farewell</hi> to his own uſe, and having ſo done, without the Grand<g ref="char:EOLhyphen"/>ſons (though then married) or Grandfathers privity; gets that mortgage aſſigned to Mr. <hi>Bennet</hi> in conſideration of 2000 <hi>l.</hi> borrowed and mentioned to be paid to Mr. <hi>Farewell,</hi> but it truth he had but 1000 <hi>l.</hi> of it, and the other was paid to Mr. <hi>Andrewes,</hi> who thereupon Delivered up the Bonds, and this 1000 <hi>l.</hi> ſtill remains in his hands, and other monies raiſed by Wood ſales and Profits, he (though he ſtiled himſelf the Guardian in the Deed) alledging he acted but as a Servant to the Mother and accounted to her, and ſhe; that ſhe was then a Feme Covert (though that was concealed) and not accomptable for what accrewed in Mr. <hi>Temple</hi>'s time, who was dead inſolvent.</p>
+            <p>That the Grandfather failing of his expectations of other Proviſions ('tis true) endeavoured an Act of Parliament, for ſale of <hi>Ridware</hi> for the honourable ends before mentioned. But no <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> being made for the Ladies Dower therein (though that was after offered to be added) it did not paſs.</p>
+            <p>That being thus every way diſappointed therein, and conſidering that they, who had perſwaded the daughter at Thirteen to levy a fine, and to paſs by the Fa<g ref="char:EOLhyphen"/>thers Line, by whom the eſtate came, and to ſettle the Inheritance, of failer of iſſue, in the Mother, and concealed it from him on the Marriage treaty, did ſtill drive on their deſigns to get the Eſtate to themſelves, and of keeping the now Lord <hi>Leigh</hi> from having advantage and benefit by it; and that they were incouraged therein by their hopes, that when the late Lord <hi>Leigh</hi> (who was very old and infirm) ſhould dye and the Eſtate fall in poſſeſſion upon the Grandſon, ſhe would be<g ref="char:EOLhyphen"/>come dowable of the whole; whereby in effect, ſhe would have all the advantage that could be out of his Eſtate, and he little or none out of hers, and that while thoſe hopes remained they would not be brought to any reaſonable ſettlement, he, that he might treat with them on equalterms, prevailed with the Grandſon (tho then under Age) to levy a Fine of his Eſtate alſo, and to declare the Uſes ſo, as ſhe might not be dowable thereof; but with an intention ſtill to reverſe it when any reaſonable ſettlement could be obtained of the Eſtate; of which his inſpection afterwards may be a ſufficient evidence.</p>
+            <p>That not long after the late Lord <hi>Leigh</hi> dyed, having committed the care and guardianſhip of his Grandſon, then a Minor, to Sir <hi>William Bromley,</hi> who had Married his Daughter, and if his Lordſhip received that 1400 <hi>l.</hi> of the Wood money (whereof 1000 <hi>l.</hi> is untruly ſuggeſted to be poſſeſſed by Sir <hi>William Bromley,</hi>) he made a full Recompence to his Grandſon for it, having diſcharged him of the Statute inſiſted on, and other Debts; made him ſole Executor, and left him a perſo<g ref="char:EOLhyphen"/>nal Eſtate to the value of ſeveral Thouſands of pounds, and much greater advantages then ever were talked on or propoſed in any the marriage treaties.</p>
+            <p>That all the Eſtate thus faln in poſſeſſion 'twas hoped a better compliance would be on the Ladies Friends part then formerly; but though ſhe had been all a<g ref="char:EOLhyphen"/>long kindly treated, and not with any thoſe ſeverities ſuggeſted; yet her Friends, deſigning ſtill to get the Eſtate to themſelves, left no means unattempted both by Letters and otherwiſe to foment differences, and occaſion a ſeparation, nay ſo far to proceed as to make ſeveral attempts to take her away by force. And if thoſe proceedings and her own perſonal weakeneſſes (which did not at all times render it convenient for her to go abroad,) did occaſion a ſtricter inſpection in<g ref="char:EOLhyphen"/>to her carriage and correſpondencies then ſhe was willing to admit, yet was there no cauſe, upon ſuch untrue ſuggeſtions as were uſed (which can be manifeſtly diſproved) either to cauſe his Lordſhip to be called up as he was; firſt before his Majeſty and Counſel; and after in the Kings Bench, where (when be lay very dan<g ref="char:EOLhyphen"/>gerouſly ill of the Small Pox) ſhe obtained a <hi>Habeas Corpus,</hi> and an <hi>Alias,</hi> and <hi>Pluries</hi> to bring her up to <hi>London,</hi> which produced thoſe two Agreements inſiſted on. The firſt by the Three Lords, and the latter by the Judges. And that neither of them was executed, was her own and her Friends fault, as he doubts not in due time to make it evidently appear.</p>
+            <p>Notwithſtanding theſe provocations, and the unjuſt blemiſhing of his Honor and Reputation, yet they continue to cohabite at <hi>Stoneleigh,</hi> till (fruſtrated of other means) in order to payment of Debts and Portions, he breaks up houſe, and by her conſent and choice, retires to <hi>Mr. Dovers:</hi> and to remove all Jealouſies, all Servants ſhe had any prejudice againſt were diſplaced, and there (notwithſtanding the untrue ſuggeſtions to the contrary,) ſhe was treated with great reſpect, and had Coach and Servants to attend her when ſhe deſired (ſave when 'twas fitter for her to repoſe at home) till by her Elopement, in ſuch a manner as ſhe did, ſhe for<g ref="char:EOLhyphen"/>feited all the kindneſſes could be expected from her Husband, with what Honor to her ſelf, he could wiſh for her own ſake had (as well as her many other miſ<g ref="char:EOLhyphen"/>carriages in her ordinary converſation) been kept from the World as a ſecret; and that he might not by ſuch unjuſt and ſcandalous reproaches as are uſed againſt him be compelled to make them more publick.</p>
+            <p>For what is ſaid as to Sir <hi>William Bromely</hi> is ungrateful as well as for the moſt partuntrue, it being notoriouſly known that he was far from widening diffe<g ref="char:EOLhyphen"/>ence, and ſhe juſtly owned many kindneſſes from him; And if any Plate, Writings or other things, were, upon breaking up of houſe, removed for ſafe cuſtody to his Houſe, what fitter perſon to be entruſted then ſo near a Relation? to whom the Grandfather; for his known Prudence and Integrity had committed both his Perſon and Eſtate during minority. And who, when it ſhall properly come under Examination, will appear to have reaped nothing but trouble by it; the aſſign<g ref="char:EOLhyphen"/>ment ſo much noiſe is made of, being but a transferring of the Mortgage, on laying down of the Mortgage Money, after a Bill exhibited to forecloſe a Redemption.</p>
+            <p>And now after his Lordſhip has been unjuſtly brought upon the Stage in the Three great Tribunals of <hi>England;</hi> his Honourable intentions of diſcharg<g ref="char:EOLhyphen"/>ing his Fathers Debts and Siſters Portions prevented; and he in danger of ſuffering other irreparable injuries in his Name, Perſon, and Eſtate, whether he ought to encourage her in her diſobedience, by giving her a ſeparate maintainance, or reverſing the Fine, and letting her into his Eſtate (when in truth he can have little or no benefit or advantage by hers) is humbly ſubmitted to the conſideration of all Prudent and Good men.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
